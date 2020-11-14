@@ -1,0 +1,9 @@
+img{
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 1%;
+    background-color: rgb(223, 223, 223);
+}
